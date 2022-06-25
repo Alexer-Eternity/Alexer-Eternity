@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c++ and swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Website alexer.dev,wua9114@gmail.com
-- If you are one of the following people you are not allowwed to use any of my code
+- If you are one of the following people you are not allowed to use any of my code
 - James Zheng
 - Riley Goldin 
 - Mike Zhang
